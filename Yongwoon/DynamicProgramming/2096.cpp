@@ -4,10 +4,7 @@
 using namespace std;
 int input[100000][3];
 int N;
-int cache[2][3]; // 고민해보니 row가 2개만 있어도 똑같은 동작을 할 수 있음.
-// 메모리 초과를 방지하기 위해 2 X 3의 cache를 이용
-// 1번째 행으로 2번째 행의 결과를 도출하고 다시 2번 째 행의 결과를
-// 1번째 행에 저장하는 방식
+int cache[2][3];
 
 int Big_solve(){
     for(int i = 0; i < 2 ; i++){
