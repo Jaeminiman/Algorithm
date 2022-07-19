@@ -1,6 +1,9 @@
 # Algorithm
 1. 백준 매 주 8문제 push
-2. 알고리즘 문제 해결 전략 매주 1 ~ 2장 개인 학습
+2. 알고리즘 문제 해결 전략 매주 1 ~ 2장 개인 학습  
+
+## 깃헙 사용법  
+https://abundant-route-78e.notion.site/GitHub-Desktop-bfeded58e7e64b0fb71c777dca8e640e
 
 ## 전체 스케쥴
 - 15개 주제   
