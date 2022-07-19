@@ -1,0 +1,5 @@
+﻿  6549.cpp
+C:\Users\신제민\Desktop\git\helloworld\BOJ_6549\BOJ_6549\6549.cpp(15,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\신제민\Desktop\git\helloworld\BOJ_6549\BOJ_6549\6549.cpp(62,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\신제민\Desktop\git\helloworld\BOJ_6549\BOJ_6549\6549.cpp(73,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BOJ_6549.vcxproj -> C:\Users\신제민\Desktop\git\helloworld\BOJ_6549\x64\Debug\BOJ_6549.exe
