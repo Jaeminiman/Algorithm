@@ -9,7 +9,7 @@ int dp[101], wire;
 
 int wiring(){
     int result = 0;
-    for(int i=1;i<=wire;i++){ // lcs 구하는 문제와 동일해진다.
+    for(int i=1;i<=wire;i++){ // lis 구하는 문제와 동일해진다.
         for(int j=0;j<i;j++){
             if(w[i].second > w[j].second){
                 dp[i] = max(dp[i], dp[j] + 1);
