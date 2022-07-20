@@ -1,0 +1,9 @@
+﻿  Greedy_예제_출전순서정하기.cpp
+  Greedy_예제_회의실예약.cpp
+C:\Users\신제민\Documents\GitHub\Algorithm\Jaemin\문해전_그리디\Greedy_예제_회의실예약\Greedy_예제_회의실예약\Greedy_예제_회의실예약.cpp(12,32): error C2872: 'end': 모호한 기호입니다.
+C:\Users\신제민\Documents\GitHub\Algorithm\Jaemin\문해전_그리디\Greedy_예제_회의실예약\Greedy_예제_회의실예약\Greedy_예제_회의실예약.cpp(7,26): message : 'int end[100]'일 수 있습니다.
+C:\Users\신제민\Documents\GitHub\Algorithm\Jaemin\문해전_그리디\Greedy_예제_회의실예약\Greedy_예제_회의실예약\Greedy_예제_회의실예약.cpp(12,32): message : 또는       'end'
+C:\Users\신제민\Documents\GitHub\Algorithm\Jaemin\문해전_그리디\Greedy_예제_회의실예약\Greedy_예제_회의실예약\Greedy_예제_회의실예약.cpp(12,42): error C2872: 'begin': 모호한 기호입니다.
+C:\Users\신제민\Documents\GitHub\Algorithm\Jaemin\문해전_그리디\Greedy_예제_회의실예약\Greedy_예제_회의실예약\Greedy_예제_회의실예약.cpp(7,5): message : 'int begin[100]'일 수 있습니다.
+C:\Users\신제민\Documents\GitHub\Algorithm\Jaemin\문해전_그리디\Greedy_예제_회의실예약\Greedy_예제_회의실예약\Greedy_예제_회의실예약.cpp(12,42): message : 또는       'begin'
+  코드를 생성하고 있습니다...
