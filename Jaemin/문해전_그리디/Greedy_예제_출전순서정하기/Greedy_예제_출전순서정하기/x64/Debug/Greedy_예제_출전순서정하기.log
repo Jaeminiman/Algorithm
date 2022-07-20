@@ -1,0 +1,7 @@
+﻿  Greedy_예제_출전순서정하기_개선ver.cpp
+Greedy_예제_출전순서정하기_개선ver.obj : error LNK2005: main이(가) Greedy_예제_출전순서정하기.obj에 이미 정의되어 있습니다.
+Greedy_예제_출전순서정하기_개선ver.obj : error LNK2005: "int C" (?C@@3HA)이(가) Greedy_예제_출전순서정하기.obj에 이미 정의되어 있습니다.
+Greedy_예제_출전순서정하기_개선ver.obj : error LNK2005: "int N" (?N@@3HA)이(가) Greedy_예제_출전순서정하기.obj에 이미 정의되어 있습니다.
+Greedy_예제_출전순서정하기_개선ver.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > russian" (?russian@@3V?$vector@HV?$allocator@H@std@@@std@@A)이(가) Greedy_예제_출전순서정하기.obj에 이미 정의되어 있습니다.
+Greedy_예제_출전순서정하기_개선ver.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > korean" (?korean@@3V?$vector@HV?$allocator@H@std@@@std@@A)이(가) Greedy_예제_출전순서정하기.obj에 이미 정의되어 있습니다.
+C:\Users\신제민\Documents\GitHub\Algorithm\Jaemin\문해전_그리디\Greedy_예제_출전순서정하기\x64\Debug\Greedy_예제_출전순서정하기.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
