@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Greedy_문제10.4_문자열합치기", "Greedy_문제10.4_문자열합치기\Greedy_문제10.4_문자열합치기.vcxproj", "{8EA65AAA-CAE4-4A15-B654-60E55235E3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EA65AAA-CAE4-4A15-B654-60E55235E3DC}.Debug|x64.ActiveCfg = Debug|x64
+		{8EA65AAA-CAE4-4A15-B654-60E55235E3DC}.Debug|x64.Build.0 = Debug|x64
+		{8EA65AAA-CAE4-4A15-B654-60E55235E3DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{8EA65AAA-CAE4-4A15-B654-60E55235E3DC}.Debug|x86.Build.0 = Debug|Win32
+		{8EA65AAA-CAE4-4A15-B654-60E55235E3DC}.Release|x64.ActiveCfg = Release|x64
+		{8EA65AAA-CAE4-4A15-B654-60E55235E3DC}.Release|x64.Build.0 = Release|x64
+		{8EA65AAA-CAE4-4A15-B654-60E55235E3DC}.Release|x86.ActiveCfg = Release|Win32
+		{8EA65AAA-CAE4-4A15-B654-60E55235E3DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A579F2B4-C88A-47C5-B319-F1C0A3CA2D20}
+	EndGlobalSection
+EndGlobal
